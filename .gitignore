@@ -1,0 +1,10 @@
+# 由脚本生成的大体积中间数据（可用 code/run_all.py 一键重建）
+data/raw/*.jsonl
+data/raw/*.csv
+data/processed/corpus_seg.txt
+data/processed/panel_measure.csv
+data/processed/measure_variants.csv
+data/lexicon/w2v.model*
+__pycache__/
+*.pyc
+.DS_Store
